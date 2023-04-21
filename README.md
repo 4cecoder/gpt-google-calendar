@@ -21,7 +21,7 @@ A smart, AI-powered calendar management tool that leverages OpenAI's GPT to help
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/gpt-google-calendar.git
+   git clone https://github.com/4cecoder/gpt-google-calendar.git
    ```
 
 2. Install dependencies:
@@ -33,7 +33,7 @@ A smart, AI-powered calendar management tool that leverages OpenAI's GPT to help
 
 4. Run the script:
    ```
-   python gpt_google_calendar.py
+   python main.py
    ```
 
 ## Usage 🛠️
